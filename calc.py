@@ -5,7 +5,7 @@ def add(x, y):
     pass
 
 def divide(x, y):
-    pass
+    return x/y
 
 def sum(x, y):
     pass
