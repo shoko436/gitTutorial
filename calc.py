@@ -9,3 +9,6 @@ def divide(x, y):
 
 def sum(x, y):
     pass
+
+def multiply(x, y):
+    return x*y
